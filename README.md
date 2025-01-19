@@ -1,2 +1,2 @@
-# mineos-apps
+# mineOS Apps
 mineOS System Applications
